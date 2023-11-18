@@ -49,3 +49,7 @@ sudo apt install libxcb-keysyms1 libxcb-keysyms1-dev libqt5svg5* libx11-xcb-dev
 11-18 20:27:35.557 24607 27066 I renderdoc: @6558adb700000ac6@ __rdoc_internal_android_logcat 265977178
 
 ```
+
+related code
+
+![](https://imgur.com/Acp4OpD.png)
